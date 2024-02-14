@@ -1,1 +1,1 @@
-# CodeClause - Digital clock with timer and stopwatch
+#  Digital clock with timer and stopwatch
